@@ -79,7 +79,9 @@ img {
 
 .project-name {
   margin-top: 0;
-  margin-bottom: 0.1rem; }
+  margin-bottom: 0.1rem;
+  text-shadow: 0 0 2px #fff;
+ }
 
 @media screen and (min-width: 64em) {
   .project-name {
@@ -96,7 +98,9 @@ img {
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: bold;
-  opacity: 0.9; }
+  opacity: 0.9;
+  text-shadow: 0 0 2px #fff;
+  }
 
 @media screen and (min-width: 64em) {
   .project-tagline {
