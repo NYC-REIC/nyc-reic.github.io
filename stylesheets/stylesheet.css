@@ -13,6 +13,10 @@ a {
     text-decoration: none;
 	 }
 
+img {
+  max-width: 100%;
+}
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
@@ -54,8 +58,11 @@ a {
 .page-header {
   color: #333; // fff;
   text-align: center;
-  background-color: #159957;
+  background-color: #fff;
   background-image: url("../images/header_400vpx_50opacity.jpg");
+  background-size: 100%;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;  
   }
 
 @media screen and (min-width: 64em) {
