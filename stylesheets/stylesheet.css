@@ -55,7 +55,7 @@ a {
   color: #333; // fff;
   text-align: center;
   background-color: #159957;
-  background-image: url("../images/header_400vpx.jpg");
+  background-image: url("../images/header_400vpx_50opacity.jpg");
   }
 
 @media screen and (min-width: 64em) {
