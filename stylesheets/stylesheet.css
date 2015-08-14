@@ -59,7 +59,7 @@ img {
   color: #333; // fff;
   text-align: center;
   background-color: #fff;
-  background-image: url("../images/header_400vpx_50opacity.jpg");
+  background-image: url("../images/header_400vpx_25opacity.jpg");
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;  
@@ -253,3 +253,19 @@ img {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
+
+.map-title {
+	text-align: center;
+}
+
+.map-title h3 {
+	margin-bottom: 0.5rem;
+	line-height: 1.3em;
+}
+
+.map-pullquote {
+	text-align: center;
+	font-size: 1.1em;
+}
+
